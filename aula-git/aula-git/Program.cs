@@ -11,6 +11,8 @@ namespace aula_git
         static void Main(string[] args)
         {
             Console.WriteLine("Olá Mundo!");
+
+            Console.WriteLine("FACEC");
         }
     }
 }
